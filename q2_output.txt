@@ -1,0 +1,13 @@
+Final set of features
+['Col1', 'Col2', 'Col3', 'Col4', 'Col5', 'Col6', 'Col7', 'Col8', 'Col9', 'Col10', 'Col11', 'Col12']
+
+
+Accuracy for all five fold
+[0.7096774193548387, 0.7741935483870968, 0.6612903225806451, 0.8225806451612904, 0.6451612903225806]
+
+Average accuracy =  0.7225806451612903
+
+
+
+Accuracy for 70-30 split with laplace correction
+0.7096774193548387
